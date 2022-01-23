@@ -1,4 +1,4 @@
-### <h2 style=color:"red"><@exspl01> Hi!</h2>
+### <@exspl01> Hi!
 
 <div>
   <a href="https://">
