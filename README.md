@@ -18,7 +18,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="" height="30" width="40"/></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="" height="40" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="" height="30" width="40"/></a>⠀
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>⠀
+<a href="seu link" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="" height="40" width="40" /></a>⠀
 </p>
