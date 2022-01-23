@@ -1,10 +1,7 @@
 ### <@exspl01> Hi!
 
-<div>
-  <a href="https://">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ex007r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex007r&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex007r&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
@@ -27,5 +24,6 @@
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 <a href="seu link" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="" height="40" width="40" /></a>
 </p>
+
 
   
