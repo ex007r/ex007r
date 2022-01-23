@@ -1,7 +1,7 @@
 ### <@exspl01> Hi!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex007r&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=0d1117&text_color=32CD32)](https://)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex007r&theme=tokyonight&bg_color=0d1117&border_color=0d1117&text_color=32CD32)](https://)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex007r&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=0d1117&text_color=e6e6e6&title_color=367bf0&icon_color=47d4b9)](https://)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex007r&theme=tokyonight&bg_color=0d1117&border_color=0d1117&text_color=e6e6e6&title_color=367bf0&icon_color=47d4b9)](https://)
 
 ##
 
