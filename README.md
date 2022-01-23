@@ -15,6 +15,10 @@
    <p>
    <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> Console.WriteLine("Hello, CSharp!");
    </p>
-   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-   <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <p>
+   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> std::cout << "Hello, C++!" << std::endl;
+   </p>
+   <p>
+   <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> System.out.println("Hello, JAVA!");
+   </p>
  </div>
