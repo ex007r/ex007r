@@ -17,4 +17,5 @@
      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
  </div>
