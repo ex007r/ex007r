@@ -18,7 +18,7 @@
 ##
 
 <div align=center>
-<h3>Follow the white rabbit...</h3>
+<h3>Follow me...</h3>
 <p>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="" height="30" width="40"/></a>⠀
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>⠀
