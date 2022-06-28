@@ -1,7 +1,7 @@
 ### <@exspl01> Hi!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex007r&show_icons=true&theme=gotham&bg_color=0d1117&border_color=0d1117&text_color=e6e6e6&icon_color=47d4b9&hide_title=true)](https://github.com/ex007r)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex007r&theme=gotham&bg_color=130,0d1117,47d4b9&border_color=0d1117&text_color=e6e6e6&icon_color=47d4b9&hide_title=true&hide=Cython,Javascript,Html,Css,Fortran,TeX,PowerShell)](https://github.com/ex007r)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex007r&theme=gotham&bg_color=130,0d1117,47d4b9&border_color=0d1117&text_color=e6e6e6&icon_color=47d4b9&hide_title=true&hide=Cython,Html,Css,Fortran,TeX,PowerShell)](https://github.com/ex007r)
 
 ##
 
